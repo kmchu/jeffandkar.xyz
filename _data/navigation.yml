@@ -5,23 +5,13 @@
   url: "/"
   side: left
 
-- title: "Services"
-  url: "#"
+- title: "Our Story"
+  url: "/story/"
   side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
 
-- title: Our Story
-  url: "/blog/"
+- title: "Careers"
+  url: "/careers/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right

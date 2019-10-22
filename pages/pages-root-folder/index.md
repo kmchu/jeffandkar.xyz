@@ -8,39 +8,66 @@ layout: frontpage
 header:
   image_fullwidth: you-can-delete-me-header.png
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Discover Our Journey"
+  url: ''
+  text: 'Need a tale to warm your cold heart? <em>Jeff and Kar</em> started as humble developers; now they are founders of a booming industry. Read their story here.'
 widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
-widget3:
-  title: "Widget 3"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
+  title: "Join Our Team!"
+  url: ''
+  text: 'Looking to fill a void in your life? Join <em>Jeff and Kar&apos;s</em> team and unlock your potential, no matter how shallow.'
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: 
+  text: Contact Us Today!
   style: alert
+
 permalink: /index.html
 ---
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
+
+<div class="row">
+    <div class="medium-6 small-12 small-centered text-center columns">
+        <blockquote>theres no way this is real right</blockquote>
+    </div>
+</div>
+<div class="row b60">
+    <div class="small-12 columns">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+</div>
+
+<h1>Strategy</h1>
+<div class="row b60">
+    <div class="medium-8 small-12 columns">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+    <div class="medium-4 small-12 columns">
+        <img src="images/you-can-delete-me-header.png">
+    </div>
+</div>
+
+<h1>Education</h1>
+<div class="row b60">
+    <div class="medium-8 small-12 columns">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+    <div class="medium-4 small-12 columns">
+        <img src="images/you-can-delete-me-header.png">
+    </div>
+</div>
+
+<h1>Information</h1>
+<div class="row b60">
+    <div class="medium-8 small-12 columns">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+    <div class="medium-4 small-12 columns">
+        <img src="images/you-can-delete-me-header.png">
+    </div>
 </div>
