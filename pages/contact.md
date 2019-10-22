@@ -7,9 +7,6 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+<p style="font-size:100px">&#128526;</p>
 
-
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+Message us on Slack!
