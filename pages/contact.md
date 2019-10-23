@@ -2,8 +2,10 @@
 layout: page
 title: "Contact"
 meta_title: "Contact Us"
-subheadline: ""
-teaser: ""
+header:
+  image_fullwidth: "pins.jpg"
+  title: Jeff and Kar's
+
 permalink: "/contact/"
 ---
 

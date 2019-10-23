@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: "pins.jpg"
+  title: Jeff and Kar's
 widget1:
   title: "Discover Our Journey"
   url: '/story/'
@@ -46,7 +47,7 @@ permalink: /index.html
         </ul>
     </div>
     <div class="medium-4 small-12 columns">
-        <img src="images/you-can-delete-me-header.png">
+        <img src="images/pins.jpg">
     </div>
 </div>
 

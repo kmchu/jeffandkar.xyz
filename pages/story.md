@@ -2,8 +2,9 @@
 layout: page-fullwidth
 title: "Our Story"
 meta_title: "Our Story"
-subheadline: ""
-teaser: ""
+header:
+  image_fullwidth: "pins.jpg"
+  title: Jeff and Kar's
 permalink: "/story/"
 ---
 
@@ -11,14 +12,14 @@ When one reflects on history, many of the prominent events revolve around one co
 
 <div class="row">
     <div class="medium-6 small-12 columns">
-        <img src="images/you-can-delete-me-thumb.png">
+        <img src="../images/jeff.jpg" class="small-centered">
         <h3>Jeff</h3>
         <p>
             Although some may think of him as just the sports guy, wait nope that's exactly all he is. But that knowledge transfers well into his ability to understand and create both offensive and defensive strategies and schemes for whatever target you may have. 
         </p>
     </div>
-    <div class="medium-6 small-12 columns">
-        <img src="images/you-can-delete-me-thumb.png">
+    <div class="medium-6 small-12 small-centered columns" class="float-center">
+        <img src="../images/kar.JPG">
         <h3>Kar</h3>
         <p>
             The guy does it all, some would call him the brains of the operation, and they would be right. The intelligence and expansion of the company falls on the shoulders of Kar. Consistently finding new associates and inventing new products to aid in the ability of clients to not only succeed in assassinations, but to understand their surroundings better as well.

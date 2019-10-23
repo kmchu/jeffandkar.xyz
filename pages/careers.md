@@ -2,8 +2,9 @@
 layout: page-fullwidth
 title: "Careers"
 meta_title: "Careers"
-subheadline: ""
-teaser: ""
+header:
+  image_fullwidth: "pins.jpg"
+  title: Jeff and Kar's
 permalink: "/careers/"
 ---
 
