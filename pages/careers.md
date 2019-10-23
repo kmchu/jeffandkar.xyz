@@ -7,5 +7,14 @@ teaser: ""
 permalink: "/careers/"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you been eliminated? Are you too paranoid to play? Do you just want to be involved? Well we have a great offer for you. We are hiring associates!
+
+What you need to apply:
+- 15 years in the business or less whatever
+- Ideas
+- Knowledge of some peoples whereabouts in the offices
+- A desire to make Dave despise our company
+
+
+If any of the above apply to you, or if none of the above apply to you, apply now! Contact Jeff and Kar on slack at your earliest convenience for the opportunity of a lifetime!
 

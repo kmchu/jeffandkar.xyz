@@ -7,6 +7,4 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-<p style="font-size:100px">&#128526;</p>
-
-Message us on Slack!
+Struggling to get your target? Worried about who may have you? Need some help understanding your targets movements? Have we got an offer for you! Message Jeff and Kar on slack to hear about our limited FREE promotion going on now!
