@@ -10,15 +10,17 @@
 
 */
 
+/* Jeff and Kar's */
+$brand-1: #ea4221;      // orange
+$brand-2: #262d30;      // charcoal?
 
 
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color:       	#111;
+$text-color:       	$brand-2;
 $body-font-color: 	$text-color;
 $body-bg: 			#fdfdfd;
-
 
 
 /* Corporate Identity Colorpalette
@@ -37,12 +39,12 @@ $ci-6: #A1D044;     // green
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $ci-1;
-$secondary-color: $ci-6;
-$alert-color: $ci-5;
-$success-color: $ci-6;
-$warning-color: $ci-4;
-$info-color: $ci-1;
+$primary-color: $brand-1;
+$secondary-color: $brand-1;
+$alert-color: $brand-1;
+$success-color: $brand-1;
+$warning-color: $brand-1;
+$info-color: $brand-2;
 
 
 
@@ -80,33 +82,33 @@ $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-label-color: $brand-1;
+$topbar-dropdown-link-bg-hover: $brand-1;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $brand-1; // Active Navigation Link
+$topbar-link-bg-hover: $brand-1;
+$topbar-link-bg-active-hover: $brand-1;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $brand-1; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $brand-1;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $brand-1;
+$topbar-menu-icon-color-toggled: $brand-1;
 
 
 
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $brand-2;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $brand-1;
 
 
 $subfooter-bg: $grey-13;

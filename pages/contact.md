@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Contact"
+layout: page-fullwidth
+title: ""
 meta_title: "Contact Us"
-subheadline: ""
-teaser: ""
+header:
+  image_fullwidth: ../images/pins.jpg
 permalink: "/contact/"
 ---
 
-Struggling to get your target? Worried about who may have you? Need some help understanding your targets movements? Have we got an offer for you! Message Jeff and Kar on slack to hear about our limited FREE promotion going on now!
+Struggling to get your target? Worried about who may have you? Need some help understanding your target's movements? Have we got an offer for you! Message Jeff and Kar on Slack to hear about our limited time promotion going on now!

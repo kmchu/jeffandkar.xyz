@@ -20,7 +20,6 @@ $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
 $base-line-height: 1.5 !default;
 
-
 $font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif: "Volkhov", Georgia, Times, serif;
 $font-family-monospace: "Lucida Console", Monaco, monospace;
@@ -29,7 +28,7 @@ $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
-$header-font-family: $font-family-serif;
+$header-font-family: "Oswald", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 // control hyphenation in body paragraphs
 // use value for the hyphens css property

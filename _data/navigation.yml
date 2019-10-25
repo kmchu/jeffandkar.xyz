@@ -5,12 +5,12 @@
   url: "/"
   side: left
 
-- title: "Our Story"
-  url: "/story/"
-  side: left
-
 - title: "Careers"
   url: "/careers/"
+  side: left
+
+- title: "Our Story"
+  url: "/story/"
   side: left
 
 #

@@ -1,27 +1,27 @@
 ---
 layout: page-fullwidth
-title: "Our Story"
+title: ""
 meta_title: "Our Story"
-subheadline: ""
-teaser: ""
+header:
+  image_fullwidth: ../images/curtain.jpg
 permalink: "/story/"
 ---
 
-When one reflects on history, many of the prominent events revolve around one concept; war. War profiteers, arms and service companies tried to fill a necessary void to aid in the survival of the lives of many. Many failed, one succeeded. Through many iterations, that company came to the realization that war wasn't where success lied. No, it was actually in office assassination games and contests. After the war of 1812, Jeff and Kar feared their business model and strategy could not survive in the world they were a part of. Until, in 1867, the country of Canada was formed and they found their true calling. Passed on for generations, Jeff and Kar's Assassination Arms and Services has been the go to for all your assassination needs.
+Throughout history, many of the prominent events revolve around one thing: war. Many war profiteers failed, but one succeed. That company came to the realization that war wasn't where success lied; it was in office assassination games and contests. After the War of 1812, Jeff and Kar feared their business model and strategy would not survive in the world. It was in 1867, when the country of Canada was founded, that they finally found their true calling. <em>Jeff & Kar's Arms and Services</em> was founded to capitalize on the unbrindled chaos of office assassination games.
 
-<div class="row">
+<div class="row t60">
     <div class="medium-6 small-12 columns">
-        <img src="images/you-can-delete-me-thumb.png">
-        <h3>Jeff</h3>
+        <img src="../images/jeff.png" style="display:block;margin-left:auto;margin-right:auto">
+        <h3 class="text-center">Jeff</h3>
         <p>
-            Although some may think of him as just the sports guy, wait nope that's exactly all he is. But that knowledge transfers well into his ability to understand and create both offensive and defensive strategies and schemes for whatever target you may have. 
+            Although some may think of him as just the <em>sports guy</em>... wait that's exactly what he is. But that knowledge transfers well into his ability to understand and create offensive and defensive strategies, and schemes for his clients. 
         </p>
     </div>
     <div class="medium-6 small-12 columns">
-        <img src="images/you-can-delete-me-thumb.png">
-        <h3>Kar</h3>
+        <img src="../images/kar.png" style="display:block;margin-left:auto;margin-right:auto">
+        <h3 class="text-center">Kar</h3>
         <p>
-            The guy does it all, some would call him the brains of the operation, and they would be right. The intelligence and expansion of the company falls on the shoulders of Kar. Consistently finding new associates and inventing new products to aid in the ability of clients to not only succeed in assassinations, but to understand their surroundings better as well.
+            The guy does it all. Some would call him the brains of the operation, and they would be right. The intelligence and expansion of the company falls on the shoulders of Kar. Consistently finding new associates and inventing new products to aid his clients.
         </p>
     </div>
 </div>
